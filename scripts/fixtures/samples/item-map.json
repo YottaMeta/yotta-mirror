@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "items": [
+    {"id": "T1", "max_score": 5, "knowledge": ["有理数运算"], "difficulty": "easy"},
+    {"id": "T2", "max_score": 3, "knowledge": ["有理数运算"]},
+    {"id": "T3", "max_score": 6, "knowledge": ["一元一次方程"], "difficulty": "medium"},
+    {"id": "T4", "max_score": 4, "knowledge": ["一元一次方程"]},
+    {"id": "T5", "max_score": 3, "knowledge": ["几何图形初步"], "difficulty": "easy"},
+    {"id": "T6", "max_score": 5, "knowledge": ["几何图形初步"]},
+    {"id": "T7", "max_score": 2, "knowledge": ["统计图表"], "difficulty": "easy"},
+    {"id": "T8", "max_score": 4, "knowledge": ["统计图表"]}
+  ]
+}
