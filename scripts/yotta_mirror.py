@@ -20,7 +20,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 SCHEMA_VERSION = "1.0"
 TOOL_NAME = "yotta-mirror"
 
